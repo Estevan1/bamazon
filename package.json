@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Estevan1/bamazon/issues"
   },
-  "homepage": "https://github.com/Estevan1/bamazon#readme"
+  "homepage": "https://github.com/Estevan1/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
 }
